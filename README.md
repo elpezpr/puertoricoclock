@@ -10,7 +10,7 @@ A simple web application that displays the current time for Puerto Rico using da
 
 ## Test the App
 You can test the clock directly on CodePen using the following link:  
-[Live Demo](https://codepen.io/elpezpr/pen/zYgzKqE)
+[Live Demo](https://codepen.io/elpezpr/pen/OJKgRpJ)
 
 ## Technologies Used
 - **HTML5**
